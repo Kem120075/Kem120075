@@ -1,6 +1,6 @@
 # Hi, I'm Victor Osinke 👋
 
-**IT (User Experience) graduate, Southern Cross University** · Port Moresby, Papua New Guinea 🇵🇬
+**IT (User Experience) graduate, Southern Cross University** · Port Moresby, Papua New Guinea
 
 I build AI-powered web apps that are designed around their users, especially people who are usually left out of technology, like Tok Pisin speakers and PNG's rural farmers.
 
@@ -14,10 +14,10 @@ I build AI-powered web apps that are designed around their users, especially peo
 
 ## 🛠️ Tech I work with
 
-**Languages:** Python · TypeScript / JavaScript · SQL
-**Frontend:** React · Next.js · React Native (Expo) · Tailwind CSS
-**AI / LLM:** LangChain · Ollama · ChromaDB · Hugging Face · Cloudflare Workers AI
-**Backend & cloud:** Supabase (Postgres) · Firebase · Cloudflare · Vercel · Netlify
+**Languages:** Python · TypeScript / JavaScript · SQL  
+**Frontend:** React · Next.js · React Native (Expo) · Tailwind CSS  
+**AI / LLM:** LangChain · Ollama · ChromaDB · Hugging Face · Cloudflare Workers AI  
+**Backend & cloud:** Supabase (Postgres) · Firebase · Cloudflare · Vercel · Netlify  
 **Tools:** Git · Docker · Linux · Jira · Confluence
 
 ---
