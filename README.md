@@ -32,9 +32,14 @@ Chat with several PDFs at once and get page-level source citations for every ans
 Mobile-first platform for PNG farmers to register, price their produce, arrange transport and get paid, with English/Tok Pisin and read-aloud support.
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
+### DinauBuk *(in development)*
+Offline-first Android app that replaces the exercise book PNG trade stores use to track *dinau* (customer credit): who owes what and since when, WhatsApp reminders the owner controls, cloud backup and PDF/CSV export. Tok Pisin first. Local SQLite as the source of truth with Supabase sync, 30+ test files and CI.
+`React Native (Expo)` `TypeScript` `SQLite` `Supabase` `Jest`
+*Private repository, demo available on request.*
+
 ### Smart Attendance Monitoring System *(university team project)*
-React Native app that marks lecture attendance with facial recognition, synced to a Next.js dashboard with an LLM assistant that explains attendance data. I led testing and UI/UX and built the dashboard and AI assistant.
-`React Native` `Next.js` `Firebase` `Cloudflare Workers AI`
+React Native app that lets lecturers mark attendance with real-time facial recognition, replacing paper sign-in sheets and proxy sign-ins. Synced to a Next.js web dashboard with an AI assistant (Gemma on Cloudflare Workers AI, function calling) that explains attendance trends. I was Testing & UI/UX Lead: I ran acceptance testing, designed the wireframes and ERD, and built the dashboard UI and AI assistant. The school is now looking to adopt it.
+`React Native (Expo)` `Next.js` `Firebase` `Cloudflare Workers AI`
 
 ---
 
